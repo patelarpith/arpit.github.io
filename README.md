@@ -1,2 +1,2 @@
 # arpit.github.io
-personal site
+My personal website - now hosted on GitHub
